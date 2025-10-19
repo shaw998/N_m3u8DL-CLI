@@ -1,0 +1,8 @@
+{
+  "roles": ["primary", "secondary"],
+  "people": [
+    { "name": "Alice", "roles": ["primary", "secondary"], "weight": 1 },
+    { "name": "Bob", "roles": ["primary"], "weight": 1 },
+    { "name": "Carol", "roles": ["secondary"], "weight": 1 }
+  ]
+}
